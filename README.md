@@ -19,4 +19,4 @@
     <img align=center alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 <br>
-Estudante de Ciências da Computação, iniciante em programação e desenvolvimento.
+Estudante de Ciências da Computação, entusiasta em programação e desenvolvimento.
