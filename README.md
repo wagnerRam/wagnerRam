@@ -19,4 +19,4 @@
     <img align=center alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 <br>
-Estudante de Analise e Desenvolvimento de Siste, entusiasta em programação e desenvolvimento.
+Estudante de Analise e Desenvolvimento de Sistemas, entusiasta em programação e desenvolvimento.
