@@ -6,11 +6,6 @@
 
 ---
 
-## 🗂️ Sobre este Repositório  
-Este repositório é dedicado aos meus **estudos em Desenvolvimento Front-end** e contém práticas e projetos que abrangem desde conceitos básicos até tópicos mais avançados, como **TypeScript** e **React**.
-
----
-
 ## 🎯 Tecnologias em Estudo  
 
 <div style="display: inline_block"><br>
